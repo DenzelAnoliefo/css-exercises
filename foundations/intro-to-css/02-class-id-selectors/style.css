@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+.firstclass,
+.secondclass,
+.thirdclass {
+    background-color: rgb(233, 135, 156);
+    font-family: "Verdana", "dejaVu Sans", "sans-serif";  
+}
+
+.secondclass {
+    font-size: 24px;
+}
+
+#firstID {
+    color: rgb(7, 7, 220);
+    font-size: 36px;
+}
+
+#secondID {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: rgb(120, 246, 120);
+}
